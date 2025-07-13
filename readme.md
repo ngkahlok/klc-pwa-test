@@ -43,9 +43,6 @@ Fluffless doesn't mean "start with nothing". The goal of this template is to be 
 
 - [next-themes](https://github.com/pacocoursey/next-themes) or similar for low stress theming
 
-## Figma Design URl
-
-- [Design]()
 
 ## Gallery
 
